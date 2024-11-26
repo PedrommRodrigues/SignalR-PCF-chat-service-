@@ -1,0 +1,1 @@
+This PowerApps component allows users to input a YouTube link to display a live stream in real-time. It also features a real-time chat functionality, enabling users to send and view messages instantly through an input field.
